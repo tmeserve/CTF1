@@ -4,7 +4,6 @@ bin/
 boto3/
 boto3-1.9.199.dist-info/
 botocore/
-certfifi/
 certfifi-2019.6.16/
 chardet/
 chardet-3.0.4.dist-info/
@@ -21,3 +20,6 @@ share/
 urllib3/
 vininfo/
 archive.zip
+certifi/
+.vscode/
+six.py
